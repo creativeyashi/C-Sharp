@@ -1,0 +1,5 @@
+C:\Users\Anmol Gupta\source\repos\File_Handling_2\File_Handling_2\obj\Debug\File_Handling_2.csprojAssemblyReference.cache
+C:\Users\Anmol Gupta\source\repos\File_Handling_2\File_Handling_2\obj\Debug\File_Handling_2.Form1.resources
+C:\Users\Anmol Gupta\source\repos\File_Handling_2\File_Handling_2\obj\Debug\File_Handling_2.Properties.Resources.resources
+C:\Users\Anmol Gupta\source\repos\File_Handling_2\File_Handling_2\obj\Debug\File_Handling_2.csproj.GenerateResource.cache
+C:\Users\Anmol Gupta\source\repos\File_Handling_2\File_Handling_2\obj\Debug\FileWriting_SW.Program.resources
