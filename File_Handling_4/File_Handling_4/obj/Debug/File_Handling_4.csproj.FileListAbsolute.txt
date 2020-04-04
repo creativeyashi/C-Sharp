@@ -1,0 +1,9 @@
+C:\Users\Anmol Gupta\source\repos\File_Handling_4\File_Handling_4\bin\Debug\File_Handling_4.exe.config
+C:\Users\Anmol Gupta\source\repos\File_Handling_4\File_Handling_4\bin\Debug\File_Handling_4.exe
+C:\Users\Anmol Gupta\source\repos\File_Handling_4\File_Handling_4\bin\Debug\File_Handling_4.pdb
+C:\Users\Anmol Gupta\source\repos\File_Handling_4\File_Handling_4\obj\Debug\File_Handling_4.csprojAssemblyReference.cache
+C:\Users\Anmol Gupta\source\repos\File_Handling_4\File_Handling_4\obj\Debug\File_Handling_4.Form1.resources
+C:\Users\Anmol Gupta\source\repos\File_Handling_4\File_Handling_4\obj\Debug\File_Handling_4.Properties.Resources.resources
+C:\Users\Anmol Gupta\source\repos\File_Handling_4\File_Handling_4\obj\Debug\File_Handling_4.csproj.GenerateResource.cache
+C:\Users\Anmol Gupta\source\repos\File_Handling_4\File_Handling_4\obj\Debug\File_Handling_4.exe
+C:\Users\Anmol Gupta\source\repos\File_Handling_4\File_Handling_4\obj\Debug\File_Handling_4.pdb
