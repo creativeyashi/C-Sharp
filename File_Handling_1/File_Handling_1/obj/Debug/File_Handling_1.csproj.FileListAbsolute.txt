@@ -1,0 +1,9 @@
+C:\Users\Anmol Gupta\source\repos\File_Handling_1\File_Handling_1\bin\Debug\File_Handling_1.exe.config
+C:\Users\Anmol Gupta\source\repos\File_Handling_1\File_Handling_1\bin\Debug\File_Handling_1.exe
+C:\Users\Anmol Gupta\source\repos\File_Handling_1\File_Handling_1\bin\Debug\File_Handling_1.pdb
+C:\Users\Anmol Gupta\source\repos\File_Handling_1\File_Handling_1\obj\Debug\File_Handling_1.csprojAssemblyReference.cache
+C:\Users\Anmol Gupta\source\repos\File_Handling_1\File_Handling_1\obj\Debug\File_Handling_1.Form1.resources
+C:\Users\Anmol Gupta\source\repos\File_Handling_1\File_Handling_1\obj\Debug\File_Handling_1.Properties.Resources.resources
+C:\Users\Anmol Gupta\source\repos\File_Handling_1\File_Handling_1\obj\Debug\File_Handling_1.csproj.GenerateResource.cache
+C:\Users\Anmol Gupta\source\repos\File_Handling_1\File_Handling_1\obj\Debug\File_Handling_1.exe
+C:\Users\Anmol Gupta\source\repos\File_Handling_1\File_Handling_1\obj\Debug\File_Handling_1.pdb
