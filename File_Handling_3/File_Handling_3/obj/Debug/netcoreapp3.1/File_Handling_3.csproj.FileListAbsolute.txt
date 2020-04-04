@@ -1,0 +1,11 @@
+C:\Users\Anmol Gupta\source\repos\File_Handling_3\File_Handling_3\bin\Debug\netcoreapp3.1\File_Handling_3.exe
+C:\Users\Anmol Gupta\source\repos\File_Handling_3\File_Handling_3\bin\Debug\netcoreapp3.1\File_Handling_3.deps.json
+C:\Users\Anmol Gupta\source\repos\File_Handling_3\File_Handling_3\bin\Debug\netcoreapp3.1\File_Handling_3.runtimeconfig.json
+C:\Users\Anmol Gupta\source\repos\File_Handling_3\File_Handling_3\bin\Debug\netcoreapp3.1\File_Handling_3.runtimeconfig.dev.json
+C:\Users\Anmol Gupta\source\repos\File_Handling_3\File_Handling_3\bin\Debug\netcoreapp3.1\File_Handling_3.dll
+C:\Users\Anmol Gupta\source\repos\File_Handling_3\File_Handling_3\bin\Debug\netcoreapp3.1\File_Handling_3.pdb
+C:\Users\Anmol Gupta\source\repos\File_Handling_3\File_Handling_3\obj\Debug\netcoreapp3.1\File_Handling_3.csprojAssemblyReference.cache
+C:\Users\Anmol Gupta\source\repos\File_Handling_3\File_Handling_3\obj\Debug\netcoreapp3.1\File_Handling_3.AssemblyInfoInputs.cache
+C:\Users\Anmol Gupta\source\repos\File_Handling_3\File_Handling_3\obj\Debug\netcoreapp3.1\File_Handling_3.AssemblyInfo.cs
+C:\Users\Anmol Gupta\source\repos\File_Handling_3\File_Handling_3\obj\Debug\netcoreapp3.1\File_Handling_3.dll
+C:\Users\Anmol Gupta\source\repos\File_Handling_3\File_Handling_3\obj\Debug\netcoreapp3.1\File_Handling_3.pdb
